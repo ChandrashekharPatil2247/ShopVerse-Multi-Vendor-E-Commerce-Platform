@@ -1,1 +1,3 @@
 # ShopVerse-Multi-Vendor-E-Commerce-Platform
+
+ShopVerse is a e-commerce platform developed using a Spring Boot microservices architecture and React. The platform enables multiple vendors to list and sell products, customers to browse items, place orders, and make secure online payments, while administrators manage users, vendors, and system operations. The system integrates Apache Kafka for real-time event-driven communication between microservices and Stripe for secure payment processing. A React-based frontend provides a dynamic and user-friendly interface, while backend services handle authentication, order management, product management, and notifications
